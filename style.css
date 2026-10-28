@@ -9,7 +9,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    gap: 30px;
+    gap: 20px;
     font-size: 14px;
     font-family: Arial, Helvetica, sans-serif;
     text-decoration: none;
@@ -19,10 +19,11 @@ body {
 .logo {
     padding-left: 60px;
     color: white;
+    font-size: 23px;
 }
 
 .section {
-    padding-right: 300px;
+    padding-right: 250px;
 }
 
 a {
@@ -32,9 +33,64 @@ a {
 }
 
 .inicio {
-    padding-right: 7rem;
+    padding-right: 4rem;
 }
 
 .menu {
-    padding-right: 7rem;
+    padding-right: 4rem;
+}
+
+
+.word {
+    display: flex;
+    align-items: flex-start;
+    width: 96.9%;
+background-color: #1f2937;
+padding-bottom: 10rem;
+padding-left: 3rem;
+padding-top: 3rem;
+
+
+
+
+}
+
+.conta {
+ 
+ min-width: 0px;
+ padding-left: 0rem;
+padding-top: 3rem;
+ flex-basis: 600px;
+
+ 
+
+}
+
+.sec {
+    font-size: 50px;
+    font-family: Arial;
+    margin-bottom: 0.5rem;
+    color: white;
+}
+
+.boton {
+    padding: 0.8rem;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    color: white;
+    background-color: dodgerblue;
+    border-radius: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-color: dodgerblue;
+    font-size: 13px;
+}
+
+p {
+    color: white;
+    padding-bottom: 0.3rem;
+}
+
+.ima {
+    padding-top: 0rem;
+    padding-left: 4rem;
 }
