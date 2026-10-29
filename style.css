@@ -152,5 +152,42 @@ margin-bottom: 0px;
 .cita {
     float: right;
     padding-right: 300px;
+}
+
+.fee {
+padding-top: 5rem;
+padding-bottom: 7rem;
+}
+
+
+
+.pie {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: dodgerblue;
+    margin-right: 16rem;
+    margin-left: 16rem;
+    border-radius: 8px;
+}
+
+.aqua {
+    font-size: 23px;
+    color: white;
+margin-bottom: 0rem;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.ef {
+    margin-top: 0px;
+    color: white;
+}
+
+.ws {
+    color: white;
+    border: 2px solid white;
+background-color: dodgerblue;
+padding: 3px 9px;
+border-radius: 8px;
 
 }
