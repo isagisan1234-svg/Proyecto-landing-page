@@ -2,6 +2,7 @@ body {
     margin-top: 0rem;
     margin-left: 0rem;
     margin-right: 0rem;
+    margin-bottom: 0rem;
 }
 
 .av {
@@ -190,4 +191,17 @@ background-color: dodgerblue;
 padding: 3px 9px;
 border-radius: 8px;
 
+}
+
+.finish {
+    background-color: #1f2937;
+    padding-bottom: 0.2rem;
+    padding-top: 0.2rem;
+}
+
+.adios {
+    color: white;
+text-align: center;
+font-size: 17px;
+padding-top: 0.5rem;
 }
